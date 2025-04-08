@@ -12,7 +12,7 @@ export const kidsData = [
         "sprice" :"510.99", 
       "category": "Clothing",
       "description": "A lightweight casual shirt perfect for summer outings."
-  },
+  }, 
   { 
       "id": "27",
       "product": "Kids Wear",
