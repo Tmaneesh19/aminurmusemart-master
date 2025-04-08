@@ -13,7 +13,7 @@ export const kidsData = [
       "category": "Clothing",
       "description": "A lightweight casual shirt perfect for summer outings."
   },    
-  {   
+  {    
       "id": "27", 
       "product": "Kids Wear",
       "image": "/src/assets/Kids/14.png",
