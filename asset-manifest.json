@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aminurmusemart/static/css/main.55dd414b.css",
+    "main.js": "/aminurmusemart/static/js/main.0b712271.js",
+    "static/js/453.f218c674.chunk.js": "/aminurmusemart/static/js/453.f218c674.chunk.js",
+    "index.html": "/aminurmusemart/index.html",
+    "main.55dd414b.css.map": "/aminurmusemart/static/css/main.55dd414b.css.map",
+    "main.0b712271.js.map": "/aminurmusemart/static/js/main.0b712271.js.map",
+    "453.f218c674.chunk.js.map": "/aminurmusemart/static/js/453.f218c674.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55dd414b.css",
+    "static/js/main.0b712271.js"
+  ]
+}
